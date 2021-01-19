@@ -1,0 +1,19 @@
+{
+  "name": "paraxify",
+  "version": "1.0.0",
+  "description": "Simple lightweight parallax plugin (around **2kb gzipped**) built with Vanilla JS and CSS3 inspired by Spotify's website parallax effect.",
+  "main": "paraxify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleSoftSrl/Paraxify.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurpleSoftSrl/Paraxify.js/issues"
+  },
+  "homepage": "https://github.com/PurpleSoftSrl/Paraxify.js#readme"
+}
